@@ -1,0 +1,10 @@
+1)
+$ssh hina 
+$mysql_active_local_password
+
+2)
+*http://hina/phpmyadmin
+*se loguer avec son mot de passe habituel 
+*cliquer sur changer "Mot de passe"
+*se déconnecter de phpmyadmin 
+*se reconnecter avec le nouveau mot de passe
